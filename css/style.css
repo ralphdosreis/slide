@@ -27,7 +27,3 @@ img {
   max-width: 80%;
   margin: 0px 20px;
 }
-
-.slide {
-  transform: translate3d(-500px, 0px, 0px);
-}
